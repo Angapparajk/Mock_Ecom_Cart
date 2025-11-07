@@ -5,17 +5,25 @@ A full-stack e-commerce platform built with React and Node.js, featuring user au
 ## Screenshots
 
 ### Authentication
+# Login
 ![Login Page](Task_Screenshots/Login.png)
+# Register
 ![Registration Page](Task_Screenshots/Register.png)
 
 ### Product Browsing
+# Home
 ![Home Page](Task_Screenshots/Home.png)
+# Products with filters
 ![Products Listing](Task_Screenshots/Products_with_filters.png)
+# Products Details
 ![Product Details](Task_Screenshots/Products_Details.png)
 
 ### Shopping & Checkout
+# Cart with Checkout
 ![Shopping Cart](Task_Screenshots/Cart_with_Checkout.png)
+# Order Confirmation
 ![Checkout Confirmation](Task_Screenshots/Order_Confirmation.png)
+# Order Receipt
 ![Order Receipt](Task_Screenshots/Order_Receipt.png)
 
 
