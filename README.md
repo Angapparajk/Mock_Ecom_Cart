@@ -10,7 +10,7 @@ A full-stack e-commerce platform built with React and Node.js, featuring user au
 
 ### Product Browsing
 ![Home Page](Task_Screenshots/Home.png)
-![Products Listing](Task_Screenshots/Products_with_Filters.png)
+![Products Listing](Task_Screenshots/Products_with_filters.png)
 ![Product Details](Task_Screenshots/Products_Details.png)
 
 ### Shopping & Checkout
